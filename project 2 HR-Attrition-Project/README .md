@@ -1,4 +1,3 @@
-# Day 4
 
 # 🧑‍💼 HR Attrition Analysis Project
 
